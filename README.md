@@ -10,3 +10,4 @@ the pinned repositories (Especially CwazyKitchen (5000 Lines Java game done in a
 
 These projects show my proficiency in Java and bigger OOP projects using custom APIs and Library or the Spigot API, my knowledge on server/client communication via TCP or UDP, aswell as my in-dept knowledge on the Unity editor and its features, aswell as gun system in Unity.
 Further not published projects contain Python code, Java code from high school assignments and very basic websites.
+<br>There is practically no AI code in any projects.</br>

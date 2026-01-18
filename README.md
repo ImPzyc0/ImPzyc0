@@ -1,5 +1,5 @@
 Daniel Baur Garcia <br>
-Spigot link: https://www.spigotmc.org/resources/authors/impzyc0.1250565/ <br>
+Spigot link: https://www.spigotmc.org/resources/authors/impzyc0.1250565/ - 1300 Downloads in total <br>
 Discord: baurgarcia <br>
 studying cs rn <br>
 As most repositories contain smaller projects which were made betwenn 14 and 16 for fun,
